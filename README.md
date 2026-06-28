@@ -5,8 +5,10 @@ Bienvenue sur ce dépôt ! Il me sert de **hub central** pour compiler et prése
 ## Accéder au Portfolio
 La liste interactive et à jour de mes projets est disponible ici :
 - **[Voir mes projets](https://votre_pseudo.github.io/nom_du_repo/)**
- - [agenda-rouge](https://github.com/Kzaark/agenda-rouge))
- - [revolution](https://github.com/Kzaark/revolution)
+  - [agenda-rouge](https://github.com/Kzaark/agenda-rouge)
+    - _Affiche avec la comande `ragenda` des événements historiques du mouvement ouvrier, des révolutions et des luttes anticoloniales pour chaque jour de l'année._
+  - [revolution](https://github.com/Kzaark/revolution)
+    -  _Gadget pour afficher des citations marxistes dans le terminal Linux, inspiré de la commande `fortune`. Fonctionne avec la commande `revolution`_
 
 ---
 
