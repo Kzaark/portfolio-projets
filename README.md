@@ -11,5 +11,5 @@ La liste interactive et à jour de mes projets est disponible ici :
 ---
 
 ## Me retrouver
-* **Mastodon :** [@Kzaark@union.place](https://union.place/@Kzaark)
+* **Mastodon :** [@Kzaark@union.place](https://union.place/@Kzaark) <a rel="me" href="https://union.place/@Kzaark"></a>
 * **GitHub Principal :** [github.com/Kzaark](https://github.com/Kzaark)
