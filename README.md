@@ -1,4 +1,4 @@
-# .projets
+# portfolio-projets
 ___
 Bienvenue sur ce dépôt ! Il me sert de **hub central** pour compiler et présenter l'ensemble de mes projets, tout en permettant la vérification officielle de mon compte sur les réseaux décentralisés (comme Mastodon).
 
