@@ -6,6 +6,11 @@ Bienvenue sur ce dépôt ! Il me sert de **hub central** pour compiler et prése
 La liste interactive et à jour de mes repos : 
 - [agenda-rouge](https://github.com/Kzaark/agenda-rouge)
   - _Affiche avec la comande `ragenda` des événements historiques du mouvement ouvrier, des révolutions et des luttes anticoloniales pour chaque jour de l'année._
+- [camarade](https://github.com/Kzaark/camarade)
+  - _Affiche des fiches de personnages historiques du mouvement ouvrier : communistes, anarchistes et socialistes_
+<p="align-center">
+**En cours de création**
+</p>
 - [revolution](https://github.com/Kzaark/revolution)
   -  _Gadget pour afficher des citations marxistes dans le terminal Linux, inspiré de la commande `fortune`. Fonctionne avec la commande `revolution`_
 
