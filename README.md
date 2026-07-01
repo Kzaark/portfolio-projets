@@ -8,9 +8,10 @@ La liste interactive et à jour de mes repos :
   - _Affiche avec la comande `ragenda` des événements historiques du mouvement ouvrier, des révolutions et des luttes anticoloniales pour chaque jour de l'année._
 - [camarade](https://github.com/Kzaark/camarade)
   - _Affiche des fiches de personnages historiques du mouvement ouvrier : communistes, anarchistes et socialistes_
-                            **En cours de création**
 - [revolution](https://github.com/Kzaark/revolution)
   -  _Gadget pour afficher des citations marxistes dans le terminal Linux, inspiré de la commande `fortune`. Fonctionne avec la commande `revolution`_
+- [tarot-revolutionnaire](https://github.com/Kzaark/tarot-revolutionnaire)
+  -  _Affiche des tirages de tarot révolutionnaire dans le terminal — inspiré des symboles et archétypes des mouvements sociaux et politiques, fonctionne avec la commande `rtarot`._
 
 ---
 
