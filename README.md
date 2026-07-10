@@ -1,6 +1,6 @@
 # portfolio-projets
 ___
-Bienvenue sur ce dépôt ! Il me sert de **hub central** pour compiler et présenter l'ensemble de mes projets, tout en permettant la vérification officielle de mon compte sur les réseaux décentralisés (comme Mastodon).
+Bienvenue sur ce dépôt ! Il me sert de **hub central** pour compiler et présenter l'ensemble de mes projets.
 
 ## Accéder au Portfolio
 La liste interactive et à jour de mes repos : 
